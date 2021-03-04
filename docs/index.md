@@ -1,4 +1,9 @@
 # 目次
+<color-text color="red">テストテスト</color-text>
+
+``` vue
+<color-text color="red">テストテスト</color-text>
+```
 
 * [はじめに](ABOUT.md)
 * [あらすじ](pages/summary/index.md)
