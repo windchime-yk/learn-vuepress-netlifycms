@@ -8,4 +8,10 @@ module.exports = {
       { text: 'GitHub', link: 'https://github.com/windchime-yk/learn-vuepress-netlifycms' },
     ],
   },
+  plugins: {
+    'robots': {
+      host: 'https://learn-vuepress-netlifycms.netlify.app',
+      disallowAll: true,
+    }
+  },
 }
